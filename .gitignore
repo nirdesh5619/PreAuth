@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+!**/.env.example
+.venv
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+backend/data/
+web/node_modules/
+web/dist/
+*.egg-info/
+.uv/
