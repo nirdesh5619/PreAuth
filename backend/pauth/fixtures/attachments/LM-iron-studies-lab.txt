@@ -1,0 +1,17 @@
+LABORATORY REPORT
+Facility: Riverside Diagnostics
+Collected: 2026-08-20
+Patient: L.M.
+
+CBC:
+  Hemoglobin    8.9 g/dL     (low)
+  MCV           72 fL        (low)
+
+Iron studies:
+  Ferritin           8 ng/mL      (low)
+  Serum iron         22 mcg/dL    (low)
+  TIBC               420 mcg/dL   (high)
+  Iron saturation    9%           (low)
+
+Impression: Laboratory confirmation of iron deficiency anemia.
+Values are within 60 days of the Injectafer request. Hemoglobin is within 30 days.

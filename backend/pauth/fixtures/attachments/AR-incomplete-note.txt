@@ -1,0 +1,9 @@
+RHEUMATOLOGY NOTE (incomplete chart)
+Date: 2026-09-03
+Patient: A.R., 54
+
+Considering infliximab for rheumatoid arthritis. Joints still swollen.
+No lab sheet attached. TB status not documented. Infection screen not documented.
+Dose not specified.
+
+Use this file to force Matcher gaps, then Send back with the Quantiferon lab attached.

@@ -1,0 +1,6 @@
+Patient: A.R., 54
+Moderately to severely active seropositive rheumatoid arthritis for 6 years.
+Failed methotrexate 20 mg weekly for 16 weeks due to persistent synovitis.
+IGRA (Quantiferon) negative on 2026-07-12.
+No active infection. Exam today otherwise unremarkable.
+Plan: infliximab 3 mg/kg IV at weeks 0, 2, 6, then q8 weeks. HCPCS J1745. ICD M05.9.

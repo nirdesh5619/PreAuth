@@ -1,0 +1,16 @@
+HEMATOLOGY PROGRESS NOTE
+Date: 2026-09-01
+Patient: L.M.  Age: 62  Weight: 72 kg
+
+Diagnosis: Iron deficiency anemia (ICD D50.9). Fatigue and dyspnea on exertion.
+
+History:
+Oral ferrous sulfate 325 mg twice daily for 6 weeks, stopped for nausea and constipation
+(documented intolerance). No GI bleeding on recent colonoscopy.
+
+Labs (see companion lab report, within 30–60 days):
+Ferritin 8 ng/mL. Iron saturation 9%. Hemoglobin 8.9 g/dL.
+
+Plan:
+Ferric carboxymaltose (Injectafer) 750 mg IV x 2 doses at least 7 days apart.
+HCPCS J1439. Units align with labeled dosing for weight ≥50 kg.

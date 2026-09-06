@@ -1,0 +1,19 @@
+RHEUMATOLOGY PROGRESS NOTE
+Clinic: Metro Arthritis
+Date of service: 2026-09-03
+Patient: A.R.  DOB: 1972-04-11  Age: 54
+
+Chief complaint: Persistent synovitis despite methotrexate.
+
+HPI:
+54-year-old with moderately to severely active seropositive rheumatoid arthritis for 6 years.
+Currently on methotrexate 20 mg weekly plus folic acid. After 16 weeks at this dose, morning
+stiffness remains 90 minutes and DAS28 is 5.4. No extra-articular nodules noted today.
+
+Exam:
+MCP and PIP synovitis, bilateral. No fever. Lungs clear. No active serious infection.
+
+Assessment / plan:
+Failed methotrexate. Request infliximab 3 mg/kg IV at weeks 0, 2, 6, then every 8 weeks.
+HCPCS J1745. ICD-10 M05.9.
+TB screening: Quantiferon Gold negative 2026-07-12 (see lab). No contraindication to anti-TNF.

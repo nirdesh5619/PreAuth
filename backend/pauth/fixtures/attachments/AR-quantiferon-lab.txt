@@ -1,0 +1,12 @@
+LABORATORY REPORT
+Facility: Metro Lab
+Collected: 2026-07-12
+Patient: A.R.
+
+Test: QuantiFERON-TB Gold Plus (IGRA)
+Result: NEGATIVE
+Interpretation: Mycobacterium tuberculosis infection not detected.
+No active tuberculosis. Suitable for biologic initiation if clinically indicated.
+
+Ordering clinician: Rheumatology
+ICD: M05.9

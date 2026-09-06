@@ -1,0 +1,19 @@
+NEUROLOGY CONSULT
+Date: 2026-08-28
+Patient: B.K.  Age: 41
+
+Reason for visit: New focal seizure and persistent headache.
+
+HPI:
+Witnessed right-arm clonic seizure 10 days ago, followed by 20 minutes of confusion.
+Headache is new, worse in the morning. Conservative evaluation already performed:
+history, neurologic exam, and outpatient observation. CT head from the ED was
+unremarkable; MRI with and without contrast is requested to evaluate for mass,
+demyelination, or other structural cause.
+
+Exam (today, within 90 days of request):
+Alert. Mild right pronator drift. No papilledema. No MRI-unsafe implant.
+No pacemaker. Contrast is justified given suspected mass / new seizure.
+
+Plan:
+MRI brain with and without contrast, CPT 70553. ICD R56.9, R51.9.
